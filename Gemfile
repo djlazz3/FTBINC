@@ -40,7 +40,7 @@ group :development, :test do
   gem 'selenium-webdriver'
 end
 group :production do
-  # Use postgress for heroku development
+  # Use postgress for heroku develop
   gem 'pg'
 end
 group :development do
